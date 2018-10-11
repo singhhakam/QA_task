@@ -1,0 +1,91 @@
+1538979435229	geckodriver	INFO	geckodriver 0.20.0 (0ac3698a74a7b1a742682b8e704f1f418df827ed 2018-03-13)
+1538979435239	geckodriver	INFO	Listening on 127.0.0.1:55195
+1538979436369	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hdo1228\\AppData\\Local\\Temp\\rust_mozprofile.zUbyAWIl2shO"
+1538979437324	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1538979438563	Marionette	INFO	Enabled via --marionette
+1538979441949	Marionette	INFO	Listening on port 55201
+1538979442888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538979442933	Marionette	DEBUG	Register listener.js for window 4294967297
+1538979442985	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538979443975	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538979443975	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538979445594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://newtours.demoaut.com/"
+1538979446743	Marionette	DEBUG	Received DOM event "pageshow" for "http://newtours.demoaut.com/"
+1538979448258	Marionette	INFO	New connections will no longer be accepted
+[Child 9880] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9880] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538979448520	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 9148] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3984] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3984] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 2016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538979450026	geckodriver::marionette	ERROR	Failed to stop browser process
+1538979450532	geckodriver	INFO	geckodriver 0.20.0 (0ac3698a74a7b1a742682b8e704f1f418df827ed 2018-03-13)
+1538979450554	geckodriver	INFO	Listening on 127.0.0.1:55281
+1538979451122	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hdo1228\\AppData\\Local\\Temp\\rust_mozprofile.mLfq4wfi8JqR"
+1538979451720	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1538979452477	Marionette	INFO	Enabled via --marionette
+[Child 8396] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538979455189	Marionette	INFO	Listening on port 55287
+1538979455442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538979455504	Marionette	DEBUG	Register listener.js for window 4294967297
+1538979455543	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538979456405	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538979456405	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538979457155	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://newtours.demoaut.com/"
+1538979458661	Marionette	DEBUG	Received DOM event "pageshow" for "http://newtours.demoaut.com/"
+1538979458770	Marionette	DEBUG	Received DOM event "beforeunload" for "http://newtours.demoaut.com/"
+1538979459127	Marionette	DEBUG	Received DOM event "pagehide" for "http://newtours.demoaut.com/"
+1538979459127	Marionette	DEBUG	Received DOM event "unload" for "http://newtours.demoaut.com/"
+1538979459614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://newtours.demoaut.com/mercurysignon.php?osCsid=d4ceb55085922caaf77638a53b527dc1"
+1538979459618	Marionette	DEBUG	Received DOM event "pageshow" for "http://newtours.demoaut.com/mercurysignon.php?osCsid=d4ceb55085922caaf77638a53b527dc1"
+1538979464353	Marionette	DEBUG	Received DOM event "beforeunload" for "http://newtours.demoaut.com/mercurysignon.php?osCsid=d4ceb55085922caaf77638a53b527dc1"
+1538979469566	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1538979471652	Marionette	INFO	New connections will no longer be accepted
+[Child 8476] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8476] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5296] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538979473476	geckodriver::marionette	ERROR	Failed to stop browser process
+1538979473858	geckodriver	INFO	geckodriver 0.20.0 (0ac3698a74a7b1a742682b8e704f1f418df827ed 2018-03-13)
+1538979473869	geckodriver	INFO	Listening on 127.0.0.1:55368
+1538979474424	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hdo1228\\AppData\\Local\\Temp\\rust_mozprofile.XndjBtk3keLH"
+1538979474919	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1538979475784	Marionette	INFO	Enabled via --marionette
+[Parent 7240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9180] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9180] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538979478709	Marionette	INFO	Listening on port 55373
+1538979478894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538979478953	Marionette	DEBUG	Register listener.js for window 4294967297
+1538979479043	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538979479971	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538979479971	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538979480374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://newtours.demoaut.com/"
+1538979482013	Marionette	DEBUG	Received DOM event "pageshow" for "http://newtours.demoaut.com/"
+1538979482145	Marionette	DEBUG	Received DOM event "beforeunload" for "http://newtours.demoaut.com/"
+1538979482540	Marionette	DEBUG	Received DOM event "pagehide" for "http://newtours.demoaut.com/"
+1538979482541	Marionette	DEBUG	Received DOM event "unload" for "http://newtours.demoaut.com/"
+1538979482942	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://newtours.demoaut.com/mercuryregister.php?osCsid=f33cc3840acf18710d61504931b0ab6d"
+1538979483284	Marionette	DEBUG	Received DOM event "pageshow" for "http://newtours.demoaut.com/mercuryregister.php?osCsid=f33cc3840acf18710d61504931b0ab6d"
+1538979487920	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1538979493378	Marionette	DEBUG	Received DOM event "beforeunload" for "http://newtours.demoaut.com/mercuryregister.php?osCsid=f33cc3840acf18710d61504931b0ab6d"
+1538979498590	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1538979522735	Marionette	INFO	New connections will no longer be accepted
+[Child 5788] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9876] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9876] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 6620] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538979523745	geckodriver::marionette	ERROR	Failed to stop browser process
